@@ -27,7 +27,7 @@ For a local preview, run `python3 -m http.server 4173` from this folder, then op
 
 ## Content and attribution
 
-Content was prepared from the supplied portfolio folder and research notes. The original English CV is older than the research notes, so the portfolio avoids asserting a graduation date or current degree status.
+Content was prepared from the supplied portfolio folder, research notes and the portfolio update package supplied on 23 October 2026. The package updates the research collaboration, project contributions, role chronology, expected graduation, service and skills. These biographical details are supplied by the portfolio owner.
 
 The five Mdevari interviews link to their original publications: <https://mdevari.ge/articles/7217/>, <https://mdevari.ge/articles/7065/>, <https://mdevari.ge/articles/6744/>, <https://mdevari.ge/articles/6685/> and <https://mdevari.ge/articles/6607/>. Each article’s byline explicitly credits Bako Kobalia. English titles are descriptive translations; the original Georgian titles are also shown. Co-authors are credited.
 
