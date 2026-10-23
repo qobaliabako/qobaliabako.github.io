@@ -29,7 +29,7 @@ For a local preview, run `python3 -m http.server 4173` from this folder, then op
 
 Content was prepared from the supplied portfolio folder and research notes. The original English CV is older than the research notes, so the portfolio avoids asserting a graduation date or current degree status.
 
-The Mdevari interview links to the original publication: <https://mdevari.ge/articles/7217/>. The English title is a descriptive translation; the original Georgian title is also shown. Co-authors are credited.
+The five Mdevari interviews link to their original publications: <https://mdevari.ge/articles/7217/>, <https://mdevari.ge/articles/7065/>, <https://mdevari.ge/articles/6744/>, <https://mdevari.ge/articles/6685/> and <https://mdevari.ge/articles/6607/>. Each article’s byline explicitly credits Bako Kobalia. English titles are descriptive translations; the original Georgian titles are also shown. Co-authors are credited.
 
 Color Clash remains hosted at its existing address. The two software repositories remain under Bako’s existing GitHub account; this portfolio does not modify either experiment.
 
